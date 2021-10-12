@@ -1,0 +1,8 @@
+#Création d'un score moyen (/100) pour chaque pays sur les 5 ans (visibilité)
+
+Le covid a t il affecte le bonheur?
+SI oui
+Quel pays à été le plus touché par le covid (en terme de bonheur)
+
+
+Représentation par map pour une vue globale
