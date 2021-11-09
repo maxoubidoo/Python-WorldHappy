@@ -1,6 +1,14 @@
 # Python-WorldHappy
 Python Project on world happiness
-# //Rapport d’analyse//
+
+## Sommaire
+1. [Rapport d'analyse](#1-Rapport-d’analyse)
+2. [User Guide](#2.-User-Guide)
+3. [Developer Guide](#2.-Developer-Guide)
+4. [Lien](#2.-Lien)
+
+
+## 1. Rapport d’analyse
 
 Notre projet porte sur la joie dans le monde de 2015 à 2020.
 
@@ -22,11 +30,7 @@ Nous pouvons aussi voir une récurrence au fil des années dans les zones géogr
 Cela est encore plus frappant sur la Bubble Map où nous pouvons constater que le score de joie est très souvent proportionnel à celle de ces voisins.
 
 
-
-
-
-
-# //User Guide//
+## 2. User Guide
 
 Run pip install -r requirements.txt sous python pour installer les packages nécessaires
 
@@ -39,7 +43,7 @@ Dans le cas où requirements est perdu voici le nom des packages nécessaires, �
 plotly-express==0.4.1
 dash==2.0.0
 
-# //Developer Guide//
+## 3. Developer Guide
 
 Nous avons séparé le code en plusieurs parties distinctes par l'utilisation de commentaires,  les variables globales sont gérées dès le début du code.
 
@@ -50,5 +54,5 @@ Les graphiques sont tous gérés dans deux fonctions, dépendant de la présence
 
 Chaque graphique (hors map) est géré par la dataset nommé “data”, qui est changé selon les conditions.
 
-# //Lien//
+## 3. Lien
 https://www.kaggle.com/mathurinache/world-happiness-report
