@@ -36,7 +36,7 @@ Run pip install -r requirements.txt sous python pour installer les packages néc
 
 Run le fichier “WorldHapinessProject” puis ouvrir un navigateur à l’adresse suivante: http://127.0.0.1:8050/
 
-
+ 
 
 Dans le cas où requirements est perdu voici le nom des packages nécessaires, à installer avec  “pip install (“name”==version)”
 
